@@ -1,1 +1,1 @@
-I understand that the clon-based project created by me is intended solely for educational purpose.
+I understand that the clone-based project created by me is intended solely for educational purpose.
